@@ -19,8 +19,8 @@ Approx: 10,000 rows per table.
 
 ---
 
-## ✅ Key Business Questions Solved 
-1. Top cities by viewership
+## ✅ Key Business Questions Solved  
+1. Top cities by viewership 
 2. Watch duration trends
 3. Drop-off analysis
 4. Rewatch behavior
