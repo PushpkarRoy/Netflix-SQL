@@ -17,7 +17,7 @@ Analyze user behavior, show popularity, city engagement, and rewatch trends from
 
 Approx: 10,000 rows per table.
 
----
+---  
 
 ## ✅ Key Business Questions Solved  
 1. Top cities by viewership 
