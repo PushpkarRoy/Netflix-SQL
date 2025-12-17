@@ -1,4 +1,4 @@
-# 📺 Netflix India SQL Analysis Project
+ # 📺 Netflix India SQL Analysis Project
 
 ## 📌 Objective
 Analyze user behavior, show popularity, city engagement, and rewatch trends from a fictional Netflix India dataset using SQL.
@@ -18,7 +18,7 @@ Analyze user behavior, show popularity, city engagement, and rewatch trends from
 Approx: 10,000 rows per table.
 
 ---  
-
+  
 ## ✅ Key Business Questions Solved  
 1. Top cities by viewership 
 2. Watch duration trends
