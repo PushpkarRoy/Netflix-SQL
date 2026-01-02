@@ -10,7 +10,7 @@ Analyze user behavior, show popularity, city engagement, and rewatch trends from
 - GitHub
 
 ## 🧾 Dataset Overview
-**Tables:**
+**Tables:**    
 - `shows` – show_id, title, genre, language, duration, rating
 - `users` – user_id, name, age, city, plan_type  
 - `watch_history` – watch_id, user_id, show_id, watch_date, is_completed, rewatched_count, user_rating  
